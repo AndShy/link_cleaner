@@ -1,3 +1,8 @@
+# My Remarks
+- working only as extension due to chrome.webRequest at this moment only possible by extension
+- for working with chrome based browsers replace browser.webRequest.* with chrome.webRequest.*
+- install in browser as extension in developer mode
+
 # Link Cleaner
 Find and install this extension on the [Mozilla Add-ons website](
 https://addons.mozilla.org/en-US/firefox/addon/link-cleaner/).
